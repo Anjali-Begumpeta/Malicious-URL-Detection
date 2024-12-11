@@ -1,0 +1,27 @@
+Malicious URL Detection based on Machine Learning
+
+malicious URL detection; feature extraction; feature selection; machine learning
+
+
+IEEE International Journal on Machine Learning,Vol:11,Issue:1,Issue Date:05-Jul-2022
+
+
+
+Malicious_URL_Detection
+
+
+malicious_url_detection
+
+
+
+
+
+malicious_url_detection
+
+urlname
+Prediction
+
+
+
+
+
